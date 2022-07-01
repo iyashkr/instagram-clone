@@ -25,7 +25,10 @@ function Header() {
         </div>
 
         {/* middle */}
-        <div className=""></div>
+        <div className="">
+          <div className=""></div>
+          <input type="text" placeholder="Search"/>
+        </div>
 
         {/* right */}
         <div className=""></div>
